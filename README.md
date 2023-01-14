@@ -5,3 +5,6 @@ This game is specificly made to be the worst 3DS game. The gameplay includes wal
 
 # Controlls
 You can use the D-pad/Analog-stick to move left or right.
+
+# Why?
+Boredom.
